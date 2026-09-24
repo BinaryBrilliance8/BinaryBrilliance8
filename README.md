@@ -1,10 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/BinaryBrilliance8">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&lines=Syed+Qadeer+Ahmed;Full-Stack+%26+Applied+AI+Engineer;Distributed+Systems+%7C+ML+Backends;780%2B+Algorithmic+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&lines=Syed+Qadeer+Ahmed;Full-Stack+%26+Applied+AI+Engineer;Real-Time+Systems+%7C+ML+Backends;780%2B+Algorithmic+Problems+Solved" alt="Typing SVG" />
 </a>
 
-**Building high-throughput distributed systems and production-grade AI microservices.**
+**Full-stack and AI engineer building real-time systems and ML-powered backends in TypeScript and Python.**
+
+B.Tech Information Technology (CGPA 9.3/10) at KITSW, Warangal. Highest SGPA in the 2027 batch.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=1a1b27)](https://www.linkedin.com/in/sqasyed/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-BB9AF7?style=for-the-badge&logo=githubpages&logoColor=1a1b27)](https://binarybrilliance8.github.io)
@@ -17,28 +19,28 @@
 
 ---
 
-## ⚡ Engineering Focus
+## About Me
 
-> **Scaling architectures. Optimizing latency. Shipping applied machine learning.**
+> **Engineering high-throughput systems and production-grade AI.**
 
-I specialize in bridging scalable web architectures with ML-powered backends. Currently focused on optimizing real-time state management, building strict type-safe data pipelines, and maintaining a 520+ day algorithmic problem-solving streak.
-
-<br>
-
-| Core Domain | Architectural Impact | Primary Stack |
-| :--- | :--- | :--- |
-| **Distributed Systems** | Engineered WebSocket collaboration engines supporting 50+ concurrent users with zero-drift state synchronization. Maintained strict type-safety across 40+ shared entities in Turborepo. | Next.js, Node.js, TypeScript, PostgreSQL |
-| **Applied ML & Vision** | Architected isolated FastAPI microservices for RAG evaluation. Deployed self-retraining `dlib` classifiers for edge-case facial recognition with 98% capture reliability. | FastAPI, spaCy, SentenceTransformers, PyTorch |
-| **Algorithmic Rigor** | **780+ DSA problems solved.** Top 1100 Global on AtCoder (836), Codeforces Pupil (1258). Daily active streak exceeding 17 months. | C++, Java, Python |
-| **Cloud & Infrastructure** | Containerized microservices, authored custom CI/CD pipelines for automated testing, and deployed scalable database schemas. | Docker, AWS, Supabase, GitHub Actions |
+I build scalable web architectures and ship applied machine learning. Right now I'm optimizing real-time state management, writing strict type-safe data pipelines, and extending a 526-day problem-solving streak.
 
 <br>
 
-**Status:** Actively targeting Summer 2026 SDE Internship drives (Amazon, Google, etc.) & 2027 New-Grad Roles.
+| Focus | What I've built | Core tech |
+|:---|:---|:---|
+| **Real-Time Full-Stack** | WebSocket collaboration for 50 concurrent users per room. A Turborepo monorepo with 40+ shared TypeScript interfaces, so the stack shares one set of types. | Next.js, Node.js, TypeScript, PostgreSQL |
+| **Applied AI and Vision** | Evaluation pipeline split into isolated FastAPI microservices (parsing, semantic scoring, LLM claim validation). Self-retraining face-recognition classifier with a voice fallback. | FastAPI, spaCy, SentenceTransformers, dlib |
+| **Secure Backends** | Custom RBAC middleware across 25+ endpoints, JWT auth and Zod payload validation in a production healthcare platform. | Node.js, Express, MongoDB |
+| **Algorithmic Rigor** | 780+ DSA problems solved. Codeforces Pupil (1258), AtCoder 836 (Top 1100 global). | C++, Java, Python |
+
+<br>
+
+**Status:** Actively targeting SDE internships and 2027 new-grad roles.
 
 ---
 
-## 💻 Technical Arsenal
+## Tech Stack
 
 **Languages**<br>
 ![C++](https://img.shields.io/badge/C++-1a1b27?style=flat-square&logo=cplusplus&logoColor=7AA2F7)
@@ -47,73 +49,115 @@ I specialize in bridging scalable web architectures with ML-powered backends. Cu
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=7AA2F7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=7AA2F7)
 ![SQL](https://img.shields.io/badge/SQL-1a1b27?style=flat-square&logo=postgresql&logoColor=7AA2F7)
-![Bash](https://img.shields.io/badge/Bash-1a1b27?style=flat-square&logo=gnu-bash&logoColor=7AA2F7)
+![Bash](https://img.shields.io/badge/Bash-1a1b27?style=flat-square&logo=gnubash&logoColor=7AA2F7)
 
-**Backend, Frontend & Infrastructure**<br>
+**Backend and Frontend**<br>
 ![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=flat-square&logo=nodedotjs&logoColor=9ECE6A)
 ![Express](https://img.shields.io/badge/Express-1a1b27?style=flat-square&logo=express&logoColor=9ECE6A)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1b27?style=flat-square&logo=fastapi&logoColor=9ECE6A)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1b27?style=flat-square&logo=springboot&logoColor=9ECE6A)
 ![React](https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=9ECE6A)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1b27?style=flat-square&logo=nextdotjs&logoColor=9ECE6A)
 ![WebSockets](https://img.shields.io/badge/WebSockets-1a1b27?style=flat-square&logo=socketdotio&logoColor=9ECE6A)
+
+**Data and DevOps**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat-square&logo=postgresql&logoColor=E0AF68)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=flat-square&logo=mongodb&logoColor=E0AF68)
+![Redis](https://img.shields.io/badge/Redis-1a1b27?style=flat-square&logo=redis&logoColor=E0AF68)
+![Supabase](https://img.shields.io/badge/Supabase-1a1b27?style=flat-square&logo=supabase&logoColor=E0AF68)
 ![Docker](https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=E0AF68)
 ![AWS](https://img.shields.io/badge/AWS-1a1b27?style=flat-square&logo=amazonwebservices&logoColor=E0AF68)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1b27?style=flat-square&logo=githubactions&logoColor=E0AF68)
 
-**Data & AI Systems**<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat-square&logo=postgresql&logoColor=E0AF68)
-![Redis](https://img.shields.io/badge/Redis-1a1b27?style=flat-square&logo=redis&logoColor=E0AF68)
+**AI and Architecture**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-1a1b27?style=flat-square&logo=pytorch&logoColor=BB9AF7)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-1a1b27?style=flat-square&logo=huggingface&logoColor=BB9AF7)
 ![LangChain](https://img.shields.io/badge/LangChain-1a1b27?style=flat-square&logo=langchain&logoColor=BB9AF7)
 ![spaCy](https://img.shields.io/badge/spaCy-1a1b27?style=flat-square&logo=spacy&logoColor=BB9AF7)
-![System Design](https://img.shields.io/badge/System_Design_HLD/LLD-1a1b27?style=flat-square&logoColor=BB9AF7)
+![RAG](https://img.shields.io/badge/RAG-1a1b27?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design_HLD/LLD-1a1b27?style=flat-square)
 
 ---
 
-## 🚀 Production Engineering & Projects
+## Projects
 
-| Project & Architecture | Technical Implementation & Impact | Code |
-| :--- | :--- | :--- |
-| **[AI Resume ATS Platform](https://github.com/BinaryBrilliance8/AI-Resume-ATS-System)**<br><sub>*Python, FastAPI, Supabase, Groq LLM, SentenceTransformers*</sub> | Engineered a scalable REST API capable of processing 5MB document payloads under **800ms**. Achieved **92% semantic matching accuracy** using localized embeddings and isolated microservices. | [Repo](https://github.com/BinaryBrilliance8/AI-Resume-ATS-System) |
-| **[SnapClass: AI Attendance](https://github.com/BinaryBrilliance8/SnapClass-Ai_Attendance_System)**<br><sub>*Python, dlib, Resemblyzer, Supabase*</sub> | Designed a robust fault-tolerant attendance system with voice-fallback validation. Maintained **98% capture reliability** for 200+ students via a self-updating face-recognition classifier. Awarded *Best Project*. | [Repo](https://github.com/BinaryBrilliance8/SnapClass-Ai_Attendance_System) |
-| **[Real-Time Whiteboard Engine](https://github.com/BinaryBrilliance8/Excalidraw-Style-Real-Time-Collaborative-Whiteboard)**<br><sub>*Next.js, TypeScript, WebSockets, PostgreSQL*</sub> | Achieved zero-drift state synchronization across **50 concurrent connections** per room. Optimized state-restore queries to fire in **<50ms** utilizing a Turborepo monorepo with 40+ shared types. | [Repo](https://github.com/BinaryBrilliance8/Excalidraw-Style-Real-Time-Collaborative-Whiteboard) |
-
----
-
-## 💼 Professional Experience
-
-**MERN Stack Engineer Intern** · *Blackbucks Education* `(May 2026 – Jul 2026)`
-- Architected the backend infrastructure for **Prescripto** (healthcare platform), scaling data pipelines to reliably process and store **5,000+ daily patient records**.
-- Engineered custom RBAC middleware across **25+ distributed endpoints**, enforcing strict Zod schema validation and stateless JWT authentication to guarantee zero unauthorized data access.
+| Project and Stack | Implementation and Impact | Links |
+|:---|:---|:---|
+| **[AI Resume ATS Platform](https://github.com/BinaryBrilliance8/AI-Resume-ATS-System)**<br><sub>*Python, FastAPI, Supabase, Groq LLM, spaCy, SentenceTransformers*</sub> | 7 REST endpoints processing 5MB documents in **under 800ms**. **92% semantic matching accuracy** from 384-dim MiniLM embeddings, cosine-similarity ranking and structured JD parsing. | [Repo](https://github.com/BinaryBrilliance8/AI-Resume-ATS-System) <!-- add: · [Live](URL) --> |
+| **[SnapClass: AI Attendance](https://github.com/BinaryBrilliance8/SnapClass-Ai_Attendance_System)**<br><sub>*Python, dlib, Resemblyzer, Supabase*</sub> | Dual-portal system for **200+ students** on a 5-table relational schema. **98% capture reliability** from 3 enrollment paths and a voice-recognition fallback. Won *Best Project*. | [Repo](https://github.com/BinaryBrilliance8/SnapClass-Ai_Attendance_System) <!-- add: · [Live](URL) --> |
+| **[Real-Time Whiteboard](https://github.com/BinaryBrilliance8/Excalidraw-Style-Real-Time-Collaborative-Whiteboard)**<br><sub>*Next.js, TypeScript, WebSockets, Canvas API, Turborepo, PostgreSQL*</sub> | **50 concurrent users per room** over optimized WebSocket pipelines. Session snapshots restored with **under 50ms** query latency. **40+ shared interfaces** across a strict monorepo. | [Repo](https://github.com/BinaryBrilliance8/Excalidraw-Style-Real-Time-Collaborative-Whiteboard) <!-- add: · [Live](URL) --> |
 
 ---
 
-## 🧠 Algorithmic Problem Solving
+## Experience
 
-| Platform | Current Rating / Rank | Benchmark & Scale |
-| :--- | :--- | :--- |
-| **Codeforces** | Pupil (1258) | Consistent Top-Tier Contest Participant |
-| **AtCoder** | 836 | Top 1100 Global Ranking |
-| **LeetCode** | 1444 | Focused on Graph, DP, & Advanced Data Structures |
-| **Total Impact** | **780+ Problems Solved** | **520+ Day Unbroken Active Streak** |
+**MERN Stack Engineer Intern** · *Blackbucks Education* · `May 2026 to Jul 2026`
+
+- Built core backend infrastructure for **Prescripto**, a MERN healthcare platform, centralizing React state management and REST APIs for **5,000+ daily patient records**.
+- Secured **25+ API endpoints** with custom Role-Based Access Control middleware for strict patient and admin authorization.
+- Hardened reliability over an 8-week production lifecycle with JWT authentication and Zod payload validation.
 
 ---
 
-## 📊 GitHub Analytics
+## Competitive Programming
+
+| Platform | Rating / Rank |
+|:---|:---|
+| Codeforces | Pupil (1258) |
+| AtCoder | 836 (Top 1100 global) |
+| LeetCode | 1444 |
+| Total | **780+ problems solved, 526 active days** |
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=BinaryBrilliance8&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBrilliance8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=BinaryBrilliance8&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=BinaryBrilliance8&layout=compact&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=BinaryBrilliance8&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+<img src="https://streak-stats.demolab.com/?user=BinaryBrilliance8&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
 </div>
 
 ---
 
-## 🌟 Leadership & Engineering Culture
+## Latest Engineering Logs
 
-- **Core Member, Technical Club (KITSW):** Directed technical seminars on Generative AI and agentic workflows, successfully onboarding **80+ junior developers** into the modern AI stack.
-- **Student Coordinator, Training & Placement Cell:** Led rigorous technical interview prep, mentoring **150+ peers** through 25+ structured mock engineering interviews.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!--
+AUTO-POPULATE WITH blog-post-workflow:
+1. Publish on Dev.to or Medium.
+2. Create .github/workflows/blog-post-workflow.yml in this repo:
+
+name: Latest blog posts
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/YOUR_DEVTO_USERNAME"
+          max_post_count: 5
+
+3. Once you have posts, the action fills the section between the markers above.
+   Until then, delete this whole section so it doesn't render empty.
+-->
+
+---
+
+## Leadership
+
+- **Core Member, Technical Club (KITSW):** Run seminars on Generative AI and agentic workflows (LLM fundamentals, RAG, AI system design). Led hands-on workshops on full-stack architecture and DSA for **80+ junior students**.
+- **Student Coordinator, Training & Placement Cell:** Mentored **150+ peers** through **25+ mock technical interviews** with code-level feedback on DSA and system design.
