@@ -7,7 +7,6 @@
 **Full-stack and AI engineer building real-time systems and ML-powered backends in TypeScript and Python.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=1a1b27)](https://www.linkedin.com/in/sqasyed/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-BB9AF7?style=for-the-badge&logo=githubpages&logoColor=1a1b27)](https://binarybrilliance8.github.io)
 [![Email](https://img.shields.io/badge/Email-9ECE6A?style=for-the-badge&logo=gmail&logoColor=1a1b27)](mailto:sqa270523@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-E0AF68?style=for-the-badge&logo=leetcode&logoColor=1a1b27)](https://leetcode.com/u/BinaryBrilliance8/)
 [![AtCoder](https://img.shields.io/badge/AtCoder-BB9AF7?style=for-the-badge&logo=atcoder&logoColor=1a1b27)](https://atcoder.jp/users/Bin_Brilliance8)
@@ -101,10 +100,10 @@ I build scalable web architectures and ship applied machine learning. Right now 
 
 | Platform | Rating / Rank |
 |:---|:---|
-| Codeforces | Pupil (1258) |
+| Codeforces | Specialist (1422) |
 | AtCoder | 836 (Top 1100 global) |
 | LeetCode | 1444 |
-| Total | **780+ problems solved, 526 active days** |
+| Total | **800+ problems solved, 550 active days** |
 
 ---
 
