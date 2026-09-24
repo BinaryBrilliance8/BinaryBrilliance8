@@ -6,8 +6,6 @@
 
 **Full-stack and AI engineer building real-time systems and ML-powered backends in TypeScript and Python.**
 
-B.Tech Information Technology (CGPA 9.3/10) at KITSW, Warangal. Highest SGPA in the 2027 batch.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=1a1b27)](https://www.linkedin.com/in/sqasyed/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-BB9AF7?style=for-the-badge&logo=githubpages&logoColor=1a1b27)](https://binarybrilliance8.github.io)
 [![Email](https://img.shields.io/badge/Email-9ECE6A?style=for-the-badge&logo=gmail&logoColor=1a1b27)](mailto:sqa270523@gmail.com)
