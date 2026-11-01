@@ -20,7 +20,7 @@
 
 > **Engineering high-throughput systems and production-grade AI.**
 
-I build scalable web architectures and ship applied machine learning. Right now I'm optimizing real-time state management, writing strict type-safe data pipelines, and extending a 526-day problem-solving streak.
+I build scalable web architectures and ship applied machine learning. Right now I'm optimizing real-time state management, writing strict type-safe data pipelines, and extending a 550-day problem-solving streak.
 
 <br>
 
