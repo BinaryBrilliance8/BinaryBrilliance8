@@ -29,7 +29,7 @@ I build scalable web architectures and ship applied machine learning. Right now 
 | **Real-Time Full-Stack** | WebSocket collaboration for 50 concurrent users per room. A Turborepo monorepo with 40+ shared TypeScript interfaces, so the stack shares one set of types. | Next.js, Node.js, TypeScript, PostgreSQL |
 | **Applied AI and Vision** | Evaluation pipeline split into isolated FastAPI microservices (parsing, semantic scoring, LLM claim validation). Self-retraining face-recognition classifier with a voice fallback. | FastAPI, spaCy, SentenceTransformers, dlib |
 | **Secure Backends** | Custom RBAC middleware across 25+ endpoints, JWT auth and Zod payload validation in a production healthcare platform. | Node.js, Express, MongoDB |
-| **Algorithmic Rigor** | 780+ DSA problems solved. Codeforces Pupil (1258), AtCoder 836 (Top 1100 global). | C++, Java, Python |
+| **Algorithmic Rigor** | 1000+ DSA problems solved. Codeforces Specialist (1556), AtCoder Cyan (1266). | C++, Java, Python |
 
 <br>
 
