@@ -102,7 +102,7 @@ I build scalable web architectures and ship applied machine learning. Right now 
 |:---|:---|
 | Codeforces | Specialist (1422) |
 | AtCoder | 836 (Top 1100 global) |
-| LeetCode | 1444 |
+| LeetCode | 2011 |
 | Total | **800+ problems solved, 550 active days** |
 
 ---
